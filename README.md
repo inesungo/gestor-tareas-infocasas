@@ -1,4 +1,4 @@
-# 📝 Gestor de Tareas (Laravel + React)
+# Gestor de Tareas (Laravel + React)
 
 Este proyecto es una aplicación simple para gestionar tareas, construida con:
 
